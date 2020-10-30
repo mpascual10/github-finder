@@ -32,7 +32,6 @@ const Search = () => {
         return (
              
             <div>
-
                 <form onSubmit={onSubmit} className='form'>
 
                 <input 
@@ -60,7 +59,7 @@ const Search = () => {
             </div>
         );
   
-    };
+};
 
 // Search.propTypes = {
 
